@@ -187,6 +187,6 @@ This Amazon Sales Analysis project demonstrates how data cleaning, exploratory d
 
 ## Author
 
-**Piyush Kumar Gupta**
+**Himanshu Kumar**
 
 If you found this project useful, feel free to star the repository.
